@@ -26,7 +26,7 @@ I’m **Kalyan Sesetti**, a passionate Full Stack Developer with hands-on experi
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,react-native,js,ts,html,css,tailwind,express,git,github,python,tensorflow,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,ts,html,css,tailwind,express,git,github,python,tensorflow,figma,vscode" />
 </p>
 
 ---
