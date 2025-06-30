@@ -1,27 +1,16 @@
 <!-- GitHub Profile README for Kalyan Sesetti -->
 
-<h1 align="center">Hi there, I'm Kalyan Sesetti 👋</h1>
-<h3 align="center">Passionate Full Stack Developer | MERN & AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Creating+Smart+Solutions+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Full+Stack+%7C+AI+%7C+Hackathon+Ready+%F0%9F%92%AA" alt="Typing SVG" />
-</p>
-
----
-
 ### 🚀 About Me
 
-- 🔭 Currently building: **MFU Simulator (Real-Time AI-Queue Optimizer)**
-- 🌱 Exploring: **Zustand, Three.js, TensorFlow, MQTT & Robotics**
-- 💼 Looking for full-time roles in **Software Engineering / AI**
-- 🧠 Always learning new tech and frameworks
-- 🏆 Finalist @ Walmart Sparkathon 2025
-- 📫 Connect with me on:
-  <br />
+Hi, I’m **Kalyan Sesetti** — a passionate Full Stack Developer with strong expertise in building scalable web applications and SaaS platforms using the MERN stack. I thrive on solving complex problems, creating efficient user experiences, and delivering innovative solutions.
+
+- 🛠️ **Tech Stack:** MongoDB · Express · React · Node.js  
+- 🎓 **Experience:** Hands-on development of full-scale web apps and SaaS products  
+- 🌱 **Currently exploring:** AI integration, real-time systems, and cloud-native architectures  
+- 💡 **Goal:** Build impactful, scalable, and intelligent applications that users love  
+- 🤝 **Let's connect:**  
   <a href="https://www.linkedin.com/in/kalyan-sesetti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:sesettikalyan@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-
----
 
 ### 🧰 Languages & Tools
 
