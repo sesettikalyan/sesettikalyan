@@ -4,7 +4,7 @@
 <h3 align="center">Passionate Full Stack Developer | MERN & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Creating+Smart+Solutions+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Full+Stack+%7C+AI+%7C+Hackathon+Ready+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Code.+Learn.+Build.+Repeat.;Creating+Smart+Solutions+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;" alt="Typing SVG" />
 </p>
 
 ---
