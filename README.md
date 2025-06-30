@@ -13,8 +13,8 @@
 
 I’m **Kalyan Sesetti**, a passionate Full Stack Developer with hands-on experience in building **scalable web applications** and **SaaS platforms** using the **MERN stack**. I thrive on transforming ideas into efficient user experiences and innovative solutions.
 
-- 🛠️ **Core Technologies:** MongoDB · Express · React · Node.js  
-- 💼 **Key Experience:** Designed and delivered full-featured web apps and SaaS platforms  
+- 🛠️ **Core Technologies:** MongoDB · Express · React · React Native · Node.js
+- 💼 **Key Experience:** Designed and delivered full-featured web and mobile apps and SaaS platforms  
 - 🌱 **Currently learning:** AI integrations, real-time systems, Three.js & robotics  
 - 🌟 **Vision:** To build intelligent, high-performance applications that make a real impact  
 - 🤝 **Let’s connect:**  
@@ -26,7 +26,7 @@ I’m **Kalyan Sesetti**, a passionate Full Stack Developer with hands-on experi
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,ts,html,css,tailwind,express,git,github,python,tensorflow,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,react-native,js,ts,html,css,tailwind,express,git,github,python,tensorflow,figma,vscode" />
 </p>
 
 ---
